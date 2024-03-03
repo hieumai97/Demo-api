@@ -1,0 +1,12 @@
+{
+  "name": "NFT-api",
+  "version": "1.0.0",
+  "description": "Hieu Mai Dev",
+  "main": "src/server.js",
+  "author": "hieumaidev",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
